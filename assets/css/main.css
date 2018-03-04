@@ -846,11 +846,7 @@ h4 {
   font-weight: bold !important;
   text-decoration: underline; }
 
-h1 {
-  text-transform: lowercase; }
-
 h2 {
-  text-transform: lowercase;
   font-size: 1.6em;
   letter-spacing: -1px;
   margin-bottom: 1em; }
@@ -932,7 +928,6 @@ ul.link-list li {
   padding: 15px 25px 15px 25px;
   background-color: #007b9d;
   border-radius: 10px;
-  text-transform: lowercase;
   text-decoration: none;
   color: #fff;
   font-size: 1.2em;
@@ -1016,7 +1011,6 @@ ul.link-list li {
       right: 40px;
       top: 1px;
       line-height: 84px;
-      text-transform: lowercase;
       font-size: 1.3em;
       letter-spacing: -1px; }
       #header nav a {
@@ -1078,7 +1072,6 @@ ul.link-list li {
       color: #fff;
       text-align: center;
       letter-spacing: -1px;
-      text-transform: lowercase;
       opacity: 0.8; }
 
   /* Main */
@@ -1234,7 +1227,6 @@ ul.link-list li {
       color: #fff;
       text-align: center;
       letter-spacing: -1px;
-      text-transform: lowercase;
       opacity: 0.8; }
 
   /* Main */
